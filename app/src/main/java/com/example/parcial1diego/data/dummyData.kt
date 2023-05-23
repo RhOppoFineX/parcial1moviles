@@ -16,5 +16,5 @@ val description2 = "Conquistando again"
 
 var books = mutableListOf(
     BookModel(title, author, description),
-    BookModel(title2, author2, description2)    
+    BookModel(title2, author2, description2)
 )
